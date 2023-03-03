@@ -1,5 +1,10 @@
 {
   "dependencies": {
+    "@headlessui/react": "^1.7.12",
+    "@heroicons/react": "^2.0.16",
     "react-router-dom": "^6.8.2"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
   }
 }
